@@ -60,3 +60,4 @@ if (functionName === 'Task2') {
 else {
     console.log('Invalid function name');
 }
+
